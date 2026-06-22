@@ -1,2 +1,2 @@
 #!/bin/bash
-g++ -std=c++17 -O3 main.cpp -o main
+g++ -std=c++17 -O3 src/*.cpp -o main
